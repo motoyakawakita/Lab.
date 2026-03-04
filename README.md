@@ -13,6 +13,9 @@ https://zenodo.org/records/18859050
 ---
 
 # 2 スペーエッセイの確立
+苦-ing
+現-ing
+縁-ing
 
 ---
 
@@ -89,7 +92,10 @@ https://zenodo.org/records/18859050
 ---
 
 ## 6 Agon
+第3論文と螺旋。
 
 ---
+
+## 7 イオ。自分語りと現-ingへの遡及。
 
 # REDADME-ing Now
