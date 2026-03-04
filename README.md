@@ -36,3 +36,7 @@ https://zenodo.org/records/18859050
 
 ### 4　おわりに
 > 「正義とは生きて、がんばることかもしれない」（第二論文）
+
+---
+
+# REDADME-ing Now
