@@ -84,4 +84,12 @@ https://zenodo.org/records/18859050
 
 ---
 
+## 6 Agon
+
+---
+
+> # 2 スペーエッセイの確立
+
+---
+
 # REDADME-ing Now
