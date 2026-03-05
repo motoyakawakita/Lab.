@@ -1,4 +1,10 @@
-# 縁-ing（En-している）
+# 0 縁-ing
+
+---
+
+# 1 縁-ing（En-している）
+
+---
 https://zenodo.org/records/18859050
 
 ## 1 概念は概念している
