@@ -96,6 +96,6 @@ https://zenodo.org/records/18859050
 
 ---
 
-## 7 イオ。自分語りと現-ingへの遡及。
+## 7 資本主義と草食。
 
 # REDADME-ing Now
